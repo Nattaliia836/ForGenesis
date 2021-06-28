@@ -1,0 +1,8 @@
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csprojAssemblyReference.cache
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cache
+E:\__________Coursera\WebAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorAssemblyInfo.cs
