@@ -1,0 +1,13 @@
+﻿@model BtcRate
+@{
+    decimal priceBtc = 1000;
+}
+<div>
+    Цена товара в рублях: @priceBtc руб.
+    <div>
+        @($"Курс долара: {Model.USD}, ціна в доларах: {Decimal.Round(Model.ConvertToUSD(priceBtc), 2)}")
+    </div>
+    <div>
+        @($"Курс гривні: {Model.UAH}, ціна в гривнях: {Decimal.Round(Model.ConvertToUAH(priceBtc), 2)}")
+    </div>
+</div>
